@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+*.local
+.env
+.vscode
+.idea
+dist/ 
+public/videos/reel_b2b_boardroom.mp4 

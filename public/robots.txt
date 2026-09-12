@@ -1,0 +1,13 @@
+# ==============================================================================
+# VINCENT RESEARCH ROBOTS.TXT
+# Global Market Research & Strategic Intelligence
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /api/inquiries
+Disallow: /api/subscribers
+Disallow: /data/
+
+# Official XML Sitemap
+Sitemap: https://vincentresearch.com/sitemap.xml
